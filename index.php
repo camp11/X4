@@ -836,7 +836,7 @@ if($message['type']=='text') {
             'messages' => array(
                 array (
   'type' => 'template',
-  'altText' => 'MANAGEMENT NGVC',
+  'altText' => 'MANAGEMENT DMS1',
   'template' => 
   array (
     'type' => 'image_carousel',
