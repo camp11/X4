@@ -241,6 +241,7 @@ if ($type == 'join' || $command == 'Wc') {
     $text .= "=======================\n";	
     $text .= "      >DMS1-Family Room<\n";	
     $text .= "DUNIA MUSIC SMULER ONE";
+    $text .= " \n";
     $text .= "=======================\n";	
     $text .= "  Jangan Lupa Cek Note ya\n";
     $text .= "[Salken dari Saya]->$profil->displayName\n";
